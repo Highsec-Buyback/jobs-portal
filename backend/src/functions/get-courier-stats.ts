@@ -10,6 +10,7 @@ export const handler: APIGatewayProxyHandler = async (event) => {
             sk: 'courier-stats',
         }
     }))).Item;
+
     return {
         statusCode: 200,
         headers: {"Content-Type": "application/json"},
