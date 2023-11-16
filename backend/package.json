@@ -24,7 +24,7 @@
     "aws-cdk-lib": "2.95.1",
     "aws-lambda": "1.0.7",
     "axios": "1.6.2",
-    "axios-retry": "3.9.0",
+    "axios-retry": "3.9.1",
     "constructs": "10.3.0",
     "source-map-support": "0.5.21"
   }
