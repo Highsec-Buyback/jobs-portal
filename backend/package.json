@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "@types/node": "20.10.7",
-    "aws-cdk": "2.95.1",
+    "aws-cdk": "2.118.0",
     "esbuild": "0.19.11",
     "ts-node": "10.9.2",
     "typescript": "5.3.3"
@@ -21,7 +21,7 @@
   "dependencies": {
     "@aws-sdk/client-dynamodb": "3.485.0",
     "@aws-sdk/lib-dynamodb": "3.485.0",
-    "aws-cdk-lib": "2.95.1",
+    "aws-cdk-lib": "2.118.0",
     "aws-lambda": "1.0.7",
     "axios": "1.6.5",
     "axios-retry": "3.9.1",
